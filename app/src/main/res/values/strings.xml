@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">fffproje</string>
+    <string name="sabah_ogunu">Sabah</string>
+    <string name="ogle_ogunu">Öğle</string>
+    <string name="aksam_ogunu">Akşam</string>
+    <string name="secilen_yemekler">Seçilen Yemekler:</string>
+    <string name="toplam_kalori">Toplam Kalori:</string>
+
+    <string-array name="ogunlar">
+        <item>@string/sabah_ogunu</item>
+        <item>@string/ogle_ogunu</item>
+        <item>@string/aksam_ogunu</item>
+    </string-array>
+</resources>
